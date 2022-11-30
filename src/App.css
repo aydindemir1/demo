@@ -1,0 +1,7 @@
+tr,
+th,
+td {
+  padding: 20px;
+  border: solid;
+  background-color: green;
+}
